@@ -4,5 +4,6 @@
     [Fname] VARCHAR(50) NULL, 
     [LName] VARCHAR(50) NULL, 
     [DateAdded] DATETIME NULL DEFAULT GETADATE(), 
-    [DateModified] DATETIME NULL DEFAULT getdate()
+    [DateModified] DATETIME NULL DEFAULT getdate(), 
+    [TellNo] VARCHAR(50) NULL
 )
