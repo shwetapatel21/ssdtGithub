@@ -59,5 +59,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Test.sql" />
+    <Build Include="SP_Ins_test.sql" />
   </ItemGroup>
 </Project>
