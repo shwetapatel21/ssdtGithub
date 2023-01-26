@@ -5,5 +5,5 @@
     [LName] VARCHAR(50) NULL, 
     [DateAdded] DATETIME NULL DEFAULT GETADATE(), 
     [DateModified] DATETIME NULL DEFAULT getdate(), 
-    [TellNo] VARCHAR(50) NULL
+    PhoneNo VARCHAR(50) NULL
 )

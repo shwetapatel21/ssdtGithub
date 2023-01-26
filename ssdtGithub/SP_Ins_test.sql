@@ -4,6 +4,6 @@
 	@TellNo varchar(50)
 	
 AS
-	insert into Test (Fname,LName,TellNo)
+	insert into Test (Fname,LName,PhoneNo)
 	VALUES (@FName,@LName,@TellNo)
 RETURN 0

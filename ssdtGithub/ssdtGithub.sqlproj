@@ -61,4 +61,7 @@
     <Build Include="Test.sql" />
     <Build Include="SP_Ins_test.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="ssdtGithub.refactorlog" />
+  </ItemGroup>
 </Project>
